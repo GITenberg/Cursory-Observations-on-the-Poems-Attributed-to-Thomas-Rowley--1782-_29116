@@ -1,0 +1,39 @@
+_repo: Cursory-Observations-on-the-Poems-Attributed-to-Thomas-Rowley--1782-_29116
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Kuist, James M.
+    birthdate: 1935
+    gutenberg_agent_id: '33706'
+    url: http://www.gutenberg.org/2009/agents/33706
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malone, Edmond
+    alias: Malone, Edmund
+    birthdate: 1741
+    deathdate: 1812
+    gutenberg_agent_id: '33705'
+    url: http://www.gutenberg.org/2009/agents/33705
+description: ''
+gutenberg_issued: '2009-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29116'
+  lccn: '68000963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chatterton, Thomas, 1752-1770 -- Authorship'
+- !lcsh 'Medievalism -- England -- History -- 18th century'
+- !lcsh 'Literary forgeries and mystifications -- History -- 18th century'
+- !lcsh 'Middle Ages in literature'
+- !lcsh 'Bryant, Jacob, 1715-1804'
+- !lcsh 'Milles, Jeremiah, 1714-1784'
+- !lcc 'PR'
+title: Cursory Observations on the Poems Attributed to Thomas Rowley (1782)
+url: http://www.gutenberg.org/ebooks/29116
